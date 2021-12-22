@@ -1,0 +1,14 @@
+header class="principal">
+    <h1>formulario HTML5</h1>;
+</header>
+<section class="principal">
+    <form>
+        <label for="nombre">Nombre:</label>
+        <input id="nombre" name="nombre"="Nombre completo">
+        <label for="contraseña">contraseña:</label>
+        <input id="contraseña" name="contraseña" type="contraseña">
+        <label for="copiar">Mensaje:</label>
+        <textarea id="enviar" name="enviar"enviar"></textarea>
+        <input id="submit" name="submit" type="submit" value="Enviar">
+ </form>>
+</section>
